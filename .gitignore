@@ -1,3 +1,7 @@
+.output/
+.vinxi/
+dist/
+node_modules/
+
 .env
 bun.lockb
-node_modules
